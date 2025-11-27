@@ -1,4 +1,4 @@
-# 🔗 TinyLink — URL Shortener with Analytics
+# 🔗 TinyLink — URL Shortener
 
 TinyLink is a full-stack URL shortener application built with **Next.js**, **TailwindCSS**, and **PostgreSQL (NeonDB)**.  
 It allows users to:
